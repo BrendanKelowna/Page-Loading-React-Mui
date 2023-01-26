@@ -2,6 +2,7 @@
 
 # Custom
 *.env
+.turbo
 
 # dependencies
 /node_modules
